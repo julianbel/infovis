@@ -1,1 +1,17 @@
-
+visual encodings
+small multiples
+horizon graphs
+steam-and-leaf plots
+q-q plots
+brushing-and-linking
+parallel coordinates
+poly-line
+flow map
+graduated symbol map
+cartograms
+reingold-tilford algorithm
+polar coordinates
+adjacency diagrams
+force-directed layouts
+arc diagram
+seriation
