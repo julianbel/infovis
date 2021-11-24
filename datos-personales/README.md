@@ -1,7 +1,7 @@
 # Visualización de datos de sueño
 
 Este repositorio agrupa los datasets y scripts utilizados para crear las visualizaciones expuestas en la historia 
-[¿Cómo duermo?](https://app.flourish.studio/story/1044906/preview/#slide-0) 
+[¿Cómo duermo?](https://julianbel.github.io/infovis/datos-personales/como-duermo.html) 
 disponible en Flourish.
 
 Para el diseño de estas visualizaciones se partió de los datos recopilados a través del uso de un smartwatch Samsung Galaxy Watch en la app Samsung Health,
