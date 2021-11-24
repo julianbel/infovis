@@ -13,4 +13,4 @@ Estos datasets fueron procesados con un script de Python para adaptar los datos 
 visualizaciones exhibidas a lo largo de la historia:
 - sueño-duracion: contiene el inicio y fin de cada noche de sueño durante el período analizado.
 - sueño-fases: contiene una tabla pivot con la duración en horas de cada fase del sueño por día.
-- sueño-: contiene la secuencia cíclica de fases por cada noche de sueño.
+- sueño-ciclos: contiene la secuencia cíclica de fases por cada noche de sueño.
